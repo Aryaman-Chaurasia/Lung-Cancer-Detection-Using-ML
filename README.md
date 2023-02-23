@@ -1,27 +1,28 @@
 # Lung-Cancer-Detection-Using-ML
 
 ## Lung Cancer Detection
-This is a lung cancer detection system that uses machine learning algorithms to classify lung cancer based on medical images such as X-rays and CT scans. This system is designed to assist medical professionals in the early detection of lung cancer.
+This is a Lung Cancer Detection Project that uses Machine Learning Algorithms to classify Lung Cancer based on Clinical Data from a Kaggle Dataset. The dataset contains information on patients with Lung Cancer, including their Age, Gender, Smoking History, and other Medical Parameters. The system is trained on this dataset using Supervised Learning Techniques.
 
 The system consists of two main components:
 
-Data Preprocessing: This component is responsible for preprocessing the medical images before passing them to the machine learning model. It includes techniques such as image enhancement, normalization, and feature extraction.
+Data Preprocessing: This component is responsible for preprocessing the clinical data before passing it to the machine learning model. It includes techniques such as Data Cleaning, Normalization, and Feature Extraction.
 
-Machine Learning Model: This component is responsible for classifying the preprocessed medical images into one of two categories: malignant or benign. The model is trained on a large dataset of medical images using supervised learning techniques.
+Machine Learning Model: This component is responsible for classifying the preprocessed clinical data into one of two categories: Malignant or Benign. The model is trained on a large dataset of clinical data using supervised learning techniques.
 
 ## Requirements
 Python 3.6 or later
 NumPy
+Pandas
 Matplotlib
 Scikit-learn
 
 ## Installation
 Clone the repository to your local machine.
 Install the required packages using pip: pip install -r requirements.txt
-Run the main.py file to start the application.
+Run the code.py file to start the application.
 
 ## Usage
-The system will display the classification result (malignant or benign) based on the machine learning model.
+The system will display the result based on the machine learning model using various Graphs and Plots which help to understand the result in a simple and easy way .
 
 ## Dataset
-The lung cancer detection system was trained on the LIDC-IDRI dataset. This dataset consists of 1,018 CT scans of lung nodules with annotations by at least four radiologists.
+The Lung Cancer Detection System was trained on the Lung Cancer dataset from Kaggle | Link - https://www.kaggle.com/datasets/yusufdede/lung-cancer-dataset. This dataset contains clinical data on patients with lung cancer, including their age, gender, smoking history, and other medical parameters.
