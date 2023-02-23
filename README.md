@@ -10,11 +10,11 @@ Data Preprocessing: This component is responsible for preprocessing the clinical
 Machine Learning Model: This component is responsible for classifying the preprocessed clinical data into one of two categories: Malignant or Benign. The model is trained on a large dataset of clinical data using supervised learning techniques.
 
 ## Requirements
-Python 3.6 or later
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
+- Python 3.6 or later
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 ## Installation
 Clone the repository to your local machine.
