@@ -5,9 +5,9 @@ This is a Lung Cancer Detection Project that uses Machine Learning Algorithms to
 
 The system consists of two main components:
 
-Data Preprocessing: This component is responsible for preprocessing the clinical data before passing it to the machine learning model. It includes techniques such as Data Cleaning, Normalization, and Feature Extraction.
+- Data Preprocessing: This component is responsible for preprocessing the clinical data before passing it to the machine learning model. It includes techniques such as Data Cleaning, Normalization, and Feature Extraction.
 
-Machine Learning Model: This component is responsible for classifying the preprocessed clinical data into one of two categories: Malignant or Benign. The model is trained on a large dataset of clinical data using supervised learning techniques.
+- Machine Learning Model: This component is responsible for classifying the preprocessed clinical data into one of two categories: Malignant or Benign. The model is trained on a large dataset of clinical data using supervised learning techniques.
 
 ## Requirements
 - Python 3.6 or later
@@ -17,9 +17,9 @@ Machine Learning Model: This component is responsible for classifying the prepro
 - Scikit-learn
 
 ## Installation
-Clone the repository to your local machine.
-Install the required packages using pip: pip install -r requirements.txt
-Run the code.py file to start the application.
+- Clone the repository to your local machine.
+- Install the required packages using pip: pip install -r requirements.txt
+- Run the code.py file to start the application.
 
 ## Usage
 The system will display the result based on the machine learning model using various Graphs and Plots which help to understand the result in a simple and easy way .
