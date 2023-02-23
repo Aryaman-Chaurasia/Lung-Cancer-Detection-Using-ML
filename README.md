@@ -25,4 +25,6 @@ The system consists of two main components:
 The system will display the result based on the machine learning model using various Graphs and Plots which help to understand the result in a simple and easy way .
 
 ## Dataset
-The Lung Cancer Detection System was trained on the Lung Cancer dataset from Kaggle | Link - https://www.kaggle.com/datasets/yusufdede/lung-cancer-dataset. This dataset contains clinical data on patients with lung cancer, including their age, gender, smoking history, and other medical parameters.
+The Lung Cancer Detection System was trained on the Lung Cancer dataset from Kaggle  
+Link - https://www.kaggle.com/datasets/yusufdede/lung-cancer-dataset  
+This dataset contains clinical data on patients with lung cancer, including their age, gender, smoking history, and other medical parameters.  
